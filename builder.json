@@ -1,0 +1,14 @@
+{
+  "project": "swiftapp",
+  "platform": "ios",
+  "github": {
+    "owner": "kr435",
+    "repo": "my-swift-app"
+  },
+  "ios": {},
+  "flutter": {
+    "watch": {}
+  },
+  "reactNative": {},
+  "mobai": {}
+}
